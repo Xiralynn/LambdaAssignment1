@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" type="text/css" href="LambdaAssignment1/Layout1CSS">
+This is a header!
+
+</head>
+
+<body>
+
+<div class="main"> This is the main body of the webpage! </div>
+<div class="footer"> This is the footer thing </div>
+
+</body>
